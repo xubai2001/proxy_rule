@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-KEYWORD,subhd
   - DOMAIN-SUFFIX,archlinux.org
   - DOMAIN-SUFFIX,glados.work
   - DOMAIN-SUFFIX,aur.tuna.tsinghua.edu.cn
