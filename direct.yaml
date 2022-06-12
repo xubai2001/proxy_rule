@@ -9,7 +9,7 @@ payload:
   - DOMAIN-KEYWORD,douyu
   - DOMAIN-SUFFIX,razord.top
   - DOMAIN-SUFFIX,xubai.tk
-  - DOMAIN-SUFFIX,archlinuxcn.org
+  # - DOMAIN-SUFFIX,archlinuxcn.org
   - DOMAIN-SUFFIX,flypy.com
   - DOMAIN-SUFFIX,nicecloud.me
   - DOMAIN-SUFFIX,pan666.net

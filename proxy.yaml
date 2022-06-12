@@ -2,6 +2,7 @@ payload:
   - DOMAIN-SUFFIX,infinitynewtab.com
   - DOMAIN-KEYWORD,subhd
   - DOMAIN-SUFFIX,archlinux.org
+  - DOMAIN-SUFFIX,archlinuxcn.org
   - DOMAIN-SUFFIX,glados.work
   - DOMAIN-SUFFIX,aur.tuna.tsinghua.edu.cn
   - DOMAIN-KEYWORD,speedtest
