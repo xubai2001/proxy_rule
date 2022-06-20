@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN,emby.prprcloud.com
   - DOMAIN-SUFFIX,infinitynewtab.com
   - DOMAIN-KEYWORD,subhd
   - DOMAIN-SUFFIX,archlinux.org
