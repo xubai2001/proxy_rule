@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-SUFFIX,okz2.com
   - DOMAIN,emby.prprcloud.com
   - DOMAIN-SUFFIX,infinitynewtab.com
   - DOMAIN-KEYWORD,subhd
