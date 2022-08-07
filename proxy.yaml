@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,glados.work
   - DOMAIN-SUFFIX,aur.tuna.tsinghua.edu.cn
   - DOMAIN-SUFFIX,yxxt.crwj.cn
+  - DOMAIN-SUFFIX,gstatic.com
  
   # DOMAIN
   - DOMAIN,emby.prprcloud.com
