@@ -1,12 +1,18 @@
 payload:
+  # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,googleapis.cn
   - DOMAIN-SUFFIX,okz2.com
-  - DOMAIN,emby.prprcloud.com
   - DOMAIN-SUFFIX,infinitynewtab.com
-  - DOMAIN-KEYWORD,subhd
   - DOMAIN-SUFFIX,archlinux.org
   - DOMAIN-SUFFIX,archlinuxcn.org
   - DOMAIN-SUFFIX,glados.work
   - DOMAIN-SUFFIX,aur.tuna.tsinghua.edu.cn
-  - DOMAIN-KEYWORD,speedtest
   - DOMAIN-SUFFIX,yxxt.crwj.cn
+ 
+  # DOMAIN
+  - DOMAIN,emby.prprcloud.com
+  
+  # DOMAIN-KEYWORD
+  - DOMAIN-KEYWORD,speedtest
+  - DOMAIN-KEYWORD,subhd
+  - DOMAIN-KEYWORD,connectivitycheck
