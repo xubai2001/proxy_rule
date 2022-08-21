@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,googleapis.cn
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,okz2.com
+  - DOMAIN-SUFFIX,okztwo.com
   - DOMAIN-SUFFIX,infinitynewtab.com
   - DOMAIN-SUFFIX,archlinux.org
   - DOMAIN-SUFFIX,archlinuxcn.org
@@ -10,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,aur.tuna.tsinghua.edu.cn
   - DOMAIN-SUFFIX,yxxt.crwj.cn
   - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,v2-163cdn.com
  
   # DOMAIN
   - DOMAIN,emby.prprcloud.com
