@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,yxxt.crwj.cn
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,v2-163cdn.com
+  - DOMAIN-SUFFIX,fuqing.cz
  
   # DOMAIN
   - DOMAIN,emby.prprcloud.com
