@@ -14,10 +14,10 @@ payload:
   - DOMAIN-SUFFIX,flypy.com
   - DOMAIN-SUFFIX,nicecloud.me
   - DOMAIN-SUFFIX,pan666.net
-  # - DOMAIN-SUFFIX,okz2.com
   - DOMAIN-SUFFIX,workers.dev
   - DOMAIN-SUFFIX,localhost
   - DOMAIN-SUFFIX,hostbuf.com
+  - DOMAIN-SUFFIX,eryi.love
   - IP-CIDR,10.0.0.0/8
   - IP-CIDR,100.64.0.0/10
   - IP-CIDR,127.0.0.0/8
