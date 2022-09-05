@@ -18,6 +18,6 @@ payload:
   - DOMAIN,emby.prprcloud.com
   
   # DOMAIN-KEYWORD
-  - DOMAIN-KEYWORD,speedtest
+  # - DOMAIN-KEYWORD,speedtest
   - DOMAIN-KEYWORD,subhd
   - DOMAIN-KEYWORD,connectivitycheck
