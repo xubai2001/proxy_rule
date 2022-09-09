@@ -1,13 +1,8 @@
 payload:
+  # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,hei521.cn
   - DOMAIN-SUFFIX,worldboxmod.com
   - DOMAIN-KEYWORD,pan666
-  - DOMAIN-KEYWORD,fishc
-  - DOMAIN-KEYWORD,xiaozhan
-  - DOMAIN-KEYWORD,yacd
-  - DOMAIN-KEYWORD,zhenbuka
-  - DOMAIN-KEYWORD,douyu
-  - DOMAIN,prpr.96110.cn.com
   - DOMAIN-KEYWORD,fastgit
   - DOMAIN-SUFFIX,razord.top
   - DOMAIN-SUFFIX,xubai.tk
@@ -18,8 +13,21 @@ payload:
   - DOMAIN-SUFFIX,localhost
   - DOMAIN-SUFFIX,hostbuf.com
   - DOMAIN-SUFFIX,eryi.love
-  - IP-CIDR,10.0.0.0/8
+  - DOMAIN-SUFFIX,metacubex.one
+
+  # DOMAIN-KEYWORD
+  - DOMAIN-KEYWORD,pan666
+  - DOMAIN-KEYWORD,fishc
+  - DOMAIN-KEYWORD,xiaozhan
+  - DOMAIN-KEYWORD,yacd
+  - DOMAIN-KEYWORD,zhenbuka
+  - DOMAIN-KEYWORD,douyu
+  - DOMAIN-KEYWORD,pan666
+  - DOMAIN-KEYWORD,fastgit
+
+  # IP-CIDR
   - IP-CIDR,100.64.0.0/10
+  - IP-CIDR,10.0.0.0/8
   - IP-CIDR,127.0.0.0/8
   - IP-CIDR,172.16.0.0/12
   - IP-CIDR,192.168.0.0/16
