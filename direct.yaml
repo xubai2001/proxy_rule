@@ -40,11 +40,12 @@ payload:
 
   # 影视
   - DOMAIN-SUFFIX,ecukwai.com
-  - DOMAIN-SUFFIX.dandanzan10.top
-  - DOMAIN-KEYWORD.dandanzan
+  - DOMAIN-SUFFIX,dandanzan10.top
+  - DOMAIN-KEYWORD,dandanzan
   - DOMAIN-SUFFIX,baobuzz.com
   - DOMAIN-KEYWORD,jubaibai
-  - DOMAIN-SUFFIX.lz-cdn1.com
+  - DOMAIN-SUFFIX,lz-cdn1.com
   - DOMAIN-SUFFIX,movie09.com
   - DOMAIN-KEYWORD,libvio
   - DOMAIN-SUFFIX,cdtlas.com
+  - DOMAIN-SUFFIX,taopianplay1.com
