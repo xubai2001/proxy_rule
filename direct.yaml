@@ -37,3 +37,14 @@ payload:
   - IP-CIDR6,fc00::/7
   - IP-CIDR6,fe80::/10
   - IP-CIDR6,fd00::/8
+
+  # 影视
+  - DOMAIN-SUFFIX,ecukwai.com
+  - DOMAIN-SUFFIX.dandanzan10.top
+  - DOMAIN-KEYWORD.dandanzan
+  - DOMAIN-SUFFIX,baobuzz.com
+  - DOMAIN-KEYWORD,jubaibai
+  - DOMAIN-SUFFIX.lz-cdn1.com
+  - DOMAIN-SUFFIX,movie09.com
+  - DOMAIN-KEYWORD,libvio
+
