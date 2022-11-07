@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,newxiaozhan.com
   - DOMAIN-SUFFIX,yukonga.top
+  - DOMAIN,luoxu.archlinuxcn.org
 
   # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,pan666
