@@ -15,6 +15,7 @@ payload:
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,v2-163cdn.com
   - DOMAIN-SUFFIX,fuqing.cz
+  - DOMAIN-SUFFIX,icekylin.online
  
   # DOMAIN
   - DOMAIN,emby.prprcloud.com
