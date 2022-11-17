@@ -18,6 +18,7 @@ payload:
   - DOMAIN-SUFFIX,newxiaozhan.com
   - DOMAIN-SUFFIX,yukonga.top
   - DOMAIN,luoxu.archlinuxcn.org
+  - DOMAIN-SUFFIX,workers.dev
 
   # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,pan666
