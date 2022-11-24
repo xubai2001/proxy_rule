@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,yukonga.top
   - DOMAIN,luoxu.archlinuxcn.org
   - DOMAIN-SUFFIX,workers.dev
+  - DOMAIN-SUFFIX,steampy.com
 
   # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,pan666
