@@ -3,8 +3,6 @@ payload:
   # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,hei521.cn
   - DOMAIN-SUFFIX,worldboxmod.com
-  - DOMAIN-KEYWORD,pan666
-  - DOMAIN-KEYWORD,fastgit
   - DOMAIN-SUFFIX,razord.top
   - DOMAIN-SUFFIX,xubai.tk
   - DOMAIN-SUFFIX,flypy.com
@@ -17,10 +15,10 @@ payload:
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,newxiaozhan.com
   - DOMAIN-SUFFIX,yukonga.top
-  - DOMAIN,luoxu.archlinuxcn.org
   - DOMAIN-SUFFIX,workers.dev
   - DOMAIN-SUFFIX,steampy.com
 
+  - DOMAIN,luoxu.archlinuxcn.org
   # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,pan666
   - DOMAIN-KEYWORD,fishc
@@ -28,7 +26,6 @@ payload:
   - DOMAIN-KEYWORD,yacd
   - DOMAIN-KEYWORD,zhenbuka
   - DOMAIN-KEYWORD,douyu
-  - DOMAIN-KEYWORD,pan666
   - DOMAIN-KEYWORD,fastgit
 
   # IP-CIDR
