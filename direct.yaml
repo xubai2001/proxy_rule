@@ -40,7 +40,7 @@ payload:
   - IP-CIDR6,fe80::/10
   - IP-CIDR6,fd00::/8
 
-  - DST-PORT,22,
+  - DST-PORT,22
 
   # 影视
   - DOMAIN-SUFFIX,ecukwai.com
