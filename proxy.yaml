@@ -18,6 +18,7 @@ payload:
   - DOMAIN-SUFFIX,icekylin.online
   - DOMAIN-SUFFIX,schub.top
   - DOMAIN-SUFFIX,teamviewer.com
+  - DOMAIN-SUFFIX,ffqla.net
  
   # DOMAIN
   - DOMAIN,emby.prprcloud.com
