@@ -2,7 +2,7 @@ async function operator(proxies = []) {
     const _ = lodash
 
     return proxies.filter(p => {
-        if (!_.includes(['vmess', 'trojan'], p.type)) return
+        if (!_.includes(['vmess', 'trojan', 'ss'], p.type)) return
         if (p.type === 'vmess' && p.network !== 'ws') return
         return true
     })
