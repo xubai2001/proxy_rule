@@ -39,7 +39,7 @@ async function operator(proxies = []) {
                         server_name: p.sni
                     }
                 }
-            } else if (p.type === 'ss') {
+            } else {
                 // ss
                 return {
                     tag: p.name,
