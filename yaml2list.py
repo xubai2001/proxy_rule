@@ -16,6 +16,7 @@ def main():
     for name in filenames:
         rules = load_yaml(f"{name}.yaml")
         write_list(rules, f"{name}.list")
+    print("write complete")
 
 if __name__ == "__main__":
     main()
