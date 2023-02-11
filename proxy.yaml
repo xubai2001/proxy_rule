@@ -20,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,teamviewer.com
   - DOMAIN-SUFFIX,ffqla.net
   - DOMAIN-SUFFIX,getsurfboard.com
+  - DOMAIN-SUFFIX,bing.com
  
   # DOMAIN
   - DOMAIN,emby.prprcloud.com
