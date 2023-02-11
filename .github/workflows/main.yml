@@ -18,6 +18,12 @@ jobs:
       with:
         python-version: 3.7
 
+    # this Action should follow steps to set up Python build environment
+    - name: Install Python dependencies
+      uses: py-actions/py-dependency-install@v4
+      with:
+        path: "requirements.txt"
+
     - name: Update paper list
       run: |
         python yaml2list.py
