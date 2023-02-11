@@ -30,7 +30,7 @@ jobs:
 
     - name: list
       run: |
-        ls 
+        ls /home/runner/work/proxy_rule/proxy_rule
     - name: commit
       run: |
         git config user.name github-actions
