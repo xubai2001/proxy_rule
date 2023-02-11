@@ -28,6 +28,9 @@ jobs:
       run: |
         python yaml2list.py
 
+    - name: list
+      run: |
+        ls 
     - name: commit
       run: |
         git config user.name github-actions
