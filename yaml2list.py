@@ -13,7 +13,7 @@ def write_list(rules: list, filename: str):
         f.writelines(rules)
 
 def main():
-    filenames = ["proxy", "direct", "custom_emby", "us", "video"]
+    filenames = ["proxy", "direct", "custom_emby", "us", "video", "Bilibili"]
     for name in filenames:
         rules = load_yaml(f"{name}.yaml")
         write_list(rules, f"{name}.list")
