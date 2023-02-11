@@ -1,4 +1,5 @@
 import yaml
+import os
 
 
 def load_yaml(filename) -> list:
@@ -16,6 +17,7 @@ def main():
     for name in filenames:
         rules = load_yaml(f"{name}.yaml")
         write_list(rules, f"{name}.list")
+    print(os.getcwd())
     print("write complete")
 
 if __name__ == "__main__":
