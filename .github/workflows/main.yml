@@ -19,16 +19,12 @@ jobs:
     - name: Install Python dependencies
       uses: py-actions/py-dependency-install@v4
       with:
-        path: "requirements.txt"
+        path: "code/requirements.txt"
 
     - name: update list
       run: |
-        var=$(python yaml2list.py)
-        echo $var
+        python code/yaml2list.py
 
-    - name: list
-      run: |
-        ls /home/runner/work/proxy_rule/proxy_rule
     - name: commit
       run: |
         git config user.name github-actions
