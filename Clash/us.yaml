@@ -9,4 +9,4 @@ payload:
   - DOMAIN-KEYWORD,instagram
 
   # openai
-  DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,openai.com
