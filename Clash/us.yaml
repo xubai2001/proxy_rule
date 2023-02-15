@@ -7,3 +7,6 @@ payload:
   - DOMAIN-SUFFIX,instagr.am
   - DOMAIN-SUFFIX,instagram.com
   - DOMAIN-KEYWORD,instagram
+
+  # openai
+  DOMAIN-SUFFIX,openai.com
