@@ -6,7 +6,6 @@ payload:
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,okz2.com
   - DOMAIN-SUFFIX,okztwo.com
-  - DOMAIN-SUFFIX,infinitynewtab.com
   - DOMAIN-SUFFIX,archlinux.org
   - DOMAIN-SUFFIX,archlinuxcn.org
   - DOMAIN-SUFFIX,glados.work
