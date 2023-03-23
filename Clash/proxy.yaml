@@ -20,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,ffqla.net
   - DOMAIN-SUFFIX,getsurfboard.com
   - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,workers.dev
  
   # DOMAIN
   - DOMAIN,emby.prprcloud.com
