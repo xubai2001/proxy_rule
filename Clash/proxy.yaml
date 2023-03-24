@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,okz2.com
   - DOMAIN-SUFFIX,okztwo.com
+  - DOMAIN-SUFFIX,okzz.net
   - DOMAIN-SUFFIX,archlinux.org
   - DOMAIN-SUFFIX,archlinuxcn.org
   - DOMAIN-SUFFIX,glados.work
@@ -22,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,workers.dev
   - DOMAIN-SUFFIX,ahhhhfs.com
+  - DOMAIN-SUFFIX,clash-meta.wiki
  
   # DOMAIN
   - DOMAIN,emby.prprcloud.com
