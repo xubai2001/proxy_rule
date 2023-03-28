@@ -21,6 +21,8 @@ DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,ahhhhfs.com
 DOMAIN-SUFFIX,clash-meta.wiki
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
 DOMAIN,emby.prprcloud.com
 DOMAIN-KEYWORD,subhd
 DOMAIN-KEYWORD,connectivitycheck
