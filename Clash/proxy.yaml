@@ -2,6 +2,7 @@ payload:
   # 需要代理的域名
   # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,googleapis.cn
+  - DOMAIN-SUFFIX,google.cn
   - DOMAIN-SUFFIX,services.googleapis.cn
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,okz2.com
