@@ -1,4 +1,4 @@
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIX,ai.com
+DOMAIN,ai.com
 DOMAIN,openaiapi-site.azureedge.net
