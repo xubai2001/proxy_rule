@@ -25,6 +25,7 @@ payload:
   - DOMAIN-SUFFIX,workers.dev
   - DOMAIN-SUFFIX,ahhhhfs.com
   - DOMAIN-SUFFIX,clash-meta.wiki
+  - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,msftncsi.com
  
