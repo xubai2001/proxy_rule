@@ -5,3 +5,4 @@ payload:
 
   # google bard
   - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN-SUFFIX,us-east-1.amazonaws.com
