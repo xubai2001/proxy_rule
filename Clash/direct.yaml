@@ -18,6 +18,8 @@ payload:
   - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,pysmei.com
   - DOMAIN,luoxu.archlinuxcn.org
+  - DOMAIN-SUFFIX,raydumall.com
+  - DOMAIN-SUFFIX,cbi360.net
 
   # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,pan666
