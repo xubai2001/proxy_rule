@@ -3,3 +3,4 @@ payload:
   - DOMAIN-SUFFIX,challenges.cloudflare.com
   - DOMAIN,ai.com
   - DOMAIN,openaiapi-site.azureedge.net
+  - DOMAIN-SUFFIX,sentry.io
