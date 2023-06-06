@@ -28,6 +28,7 @@ payload:
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,msftncsi.com
+  - DOMAIN-SUFFIX,mozilla.org
  
   # DOMAIN
   - DOMAIN,emby.prprcloud.com
