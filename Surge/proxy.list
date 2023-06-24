@@ -26,6 +26,8 @@ DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,mozilla.org
+DOMAIN-SUFFIX,api-hk.openaisb.com
+DOMAIN-SUFFIX,api-cf.openaisb.com
 DOMAIN,emby.prprcloud.com
 DOMAIN-KEYWORD,subhd
 DOMAIN-KEYWORD,connectivitycheck
