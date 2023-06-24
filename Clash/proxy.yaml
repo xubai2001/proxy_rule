@@ -29,8 +29,8 @@ payload:
   - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,msftncsi.com
   - DOMAIN-SUFFIX,mozilla.org
-  - DOMAIN-SUFFIX,api-hk.openaisb.com
-  - DOMAIN-SUFFIX,api-cf.openaisb.com
+  - DOMAIN-SUFFIX,api-hk.openai-sb.com
+  - DOMAIN-SUFFIX,api-cf.openai-sb.com
 
  
   # DOMAIN
