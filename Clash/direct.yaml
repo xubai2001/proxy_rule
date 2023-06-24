@@ -20,6 +20,7 @@ payload:
   - DOMAIN,luoxu.archlinuxcn.org
   - DOMAIN-SUFFIX,raydumall.com
   - DOMAIN-SUFFIX,cbi360.net
+  - DOMAIN-SUFFIX,openai-sb.com
 
   # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,pan666
