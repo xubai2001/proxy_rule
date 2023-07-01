@@ -14,7 +14,7 @@ def write_list(rules: list, filename: str):
 
 def main():
     root_dir = os.getcwd()
-    filenames = ["proxy", "direct", "custom_emby", "us", "video", "Bilibili", "chatgpt", "steam"]
+    filenames = ["proxy", "direct", "us", "video", "Bilibili", "chatgpt", "steam"]
     for name in filenames:
         rules = load_yaml(f"{root_dir}/Clash/{name}.yaml")
         write_list(rules, f"{root_dir}/Surge/{name}.list")
