@@ -21,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,raydumall.com
   - DOMAIN-SUFFIX,cbi360.net
   - DOMAIN-SUFFIX,api.openai-sb.com
+  - DOMAIN-SUFFIX,tr.xbair.top
 
   # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,pan666
