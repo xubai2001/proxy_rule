@@ -14,3 +14,5 @@ DOMAIN-KEYWORD,emby
 DOMAIN-KEYWORD,misakaf.org
 DOMAIN-SUFFIX,misakaf.org
 DOMAIN-SUFFIX,bili.rip
+DOMAIN-SUFFIX,vercode.asia
+IP-CIDR,92.222.208.70/32,no-resolve
