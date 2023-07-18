@@ -1,5 +1,7 @@
 payload:
   # 直连域名
+  # DOMAIN
+  - DOMAIN,cooing.cc
   # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,hei521.cn
   - DOMAIN-SUFFIX,worldboxmod.com
