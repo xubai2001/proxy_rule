@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,mudvod.tv
   - DOMAIN-SUFFIX,video-cdn.narwhrl.site
   - DOMAIN-SUFFIX,startrekcn.cn
+  - DOMAIN-SUFFIX,video-cdn.stcn.link
 
   # Emby
   - DOMAIN-KEYWORD,emby
