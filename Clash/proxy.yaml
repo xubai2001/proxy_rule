@@ -31,10 +31,11 @@ payload:
   - DOMAIN-SUFFIX,mozilla.org
   - DOMAIN-SUFFIX,api-hk.openai-sb.com
   - DOMAIN-SUFFIX,api-cf.openai-sb.com
-
  
   # DOMAIN
   - DOMAIN,emby.prprcloud.com
+  - DOMAIN,api.chatai.beauty
+  - DOMAIN,st.stripcdn.com
   
   # DOMAIN-KEYWORD
   # - DOMAIN-KEYWORD,speedtest
