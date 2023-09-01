@@ -42,7 +42,6 @@ payload:
   - DOMAIN,emby.prprcloud.com
   - DOMAIN,api.chatai.beauty
   - DOMAIN,st.stripcdn.com
-  - DOMAIN,ping.archlinux.org
   - DOMAIN,r3.o.lencr.org
 
   # DOMAIN-KEYWORD
