@@ -28,8 +28,16 @@ DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,mozilla.org
 DOMAIN-SUFFIX,api-hk.openai-sb.com
 DOMAIN-SUFFIX,api-cf.openai-sb.com
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,mozilla.com
+DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIx,adtidy.org
+DOMAIN-SUFFIX,amazontrust.com
 DOMAIN,emby.prprcloud.com
 DOMAIN,api.chatai.beauty
 DOMAIN,st.stripcdn.com
+DOMAIN,ping.archlinux.org
+DOMAIN,r3.o.lencr.org
 DOMAIN-KEYWORD,subhd
 DOMAIN-KEYWORD,connectivitycheck
