@@ -35,7 +35,7 @@ payload:
   - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,mozilla.com
   - DOMAIN-SUFFIX,1password.com
-  - DOMAIN-SUFFIx,adtidy.org
+  - DOMAIN-SUFFIX,adtidy.org
   - DOMAIN-SUFFIX,amazontrust.com
 
   # DOMAIN
