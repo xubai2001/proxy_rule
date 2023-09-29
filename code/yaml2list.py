@@ -17,7 +17,7 @@ def main():
     filenames = ["proxy", "direct", "us", "video", "Bilibili", "chatgpt", "steam"]
     for name in filenames:
         rules = load_yaml(f"{root_dir}/Clash/{name}.yaml")
-        write_list(rules, f"{root_dir}/Surge/{name}.list")
+        write_list(rules, f"{root_dir}/Surge/Rules/{name}.list")
 
 if __name__ == "__main__":
     main()
