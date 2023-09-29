@@ -33,9 +33,11 @@ DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,adtidy.org
 DOMAIN-SUFFIX,amazontrust.com
+DOMAIN-SUFFIX,ip-api.com
 DOMAIN,emby.prprcloud.com
 DOMAIN,api.chatai.beauty
 DOMAIN,st.stripcdn.com
 DOMAIN,r3.o.lencr.org
+DOMAIN,testflight.apple.com
 DOMAIN-KEYWORD,subhd
 DOMAIN-KEYWORD,connectivitycheck
