@@ -6,9 +6,9 @@ http:
     - www.g.cn
     - www.google.cn
     - adashbc.ut.taobao.com
-    - *.pangolin-sdk-toutiao.com
+    - "*.pangolin-sdk-toutiao.com"
     - adashbc.ut.taobao.com
-    - *.pglstatp-toutiao.com
+    - "*.pglstatp-toutiao.com"
 
   url-rewrite:
     ^https?://(www.)?google.cn https://www.google.com 302
