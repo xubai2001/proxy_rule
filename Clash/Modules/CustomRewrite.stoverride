@@ -1,0 +1,19 @@
+name: Custom Rewrite
+desc: 自用重写规则
+
+http:
+  mitm:
+    - www.g.cn
+    - www.google.cn
+    - adashbc.ut.taobao.com
+    - *.pangolin-sdk-toutiao.com
+    - adashbc.ut.taobao.com
+    - *.pglstatp-toutiao.com
+
+  url-rewrite:
+    ^https?://(www.)?google.cn https://www.google.com 302
+    ^https?://(www.)?g.cn https://www.google.com 302
+    ^https?:\/\/adashbc.ut.taobao.com/.* - reject
+    ^http\:\/\/.*.pglstatp-toutiao.com\/tos-cn-.*\/.*\.jpg.* - reject
+    ^https\:\/\/v\d-be-.*\.pglstatp-toutiao\.com\/.*\/.*\/video\/tos\/cn\/tos-cn-.*\/.*\/toutiao\.mp4.* - reject
+    ^http\:\/\/.*\.pglstatp-toutiao\.com\/web\.business\.image\/.*\.image.* - reject
