@@ -11,8 +11,8 @@ http:
     - "*.pglstatp-toutiao.com"
 
   url-rewrite:
-    ^https?://(www.)?google.cn https://www.google.com 302
-    ^https?://(www.)?g.cn https://www.google.com 302
+    ^https?://(www\.)?google\.cn https://www.google.com 302
+    ^https?://(www\.)?g\.cn https://www.google.com 302
     ^https?:\/\/adashbc.ut.taobao.com/.* - reject
     ^http\:\/\/.*.pglstatp-toutiao.com\/tos-cn-.*\/.*\.jpg.* - reject
     ^https\:\/\/v\d-be-.*\.pglstatp-toutiao\.com\/.*\/.*\/video\/tos\/cn\/tos-cn-.*\/.*\/toutiao\.mp4.* - reject
