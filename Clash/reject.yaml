@@ -2,4 +2,5 @@ payload:
   - DOMAIN-SUFFIX,adashbc.ut.taobao.com
   - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
   - DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
-  - DOMAIN,p6-be-pack-sign.pglstatp-toutiao.com
+  - DOMAIN-SUFFIX,pglstatp-toutiao.com
+  - DOMAIN-SUFFIX,toblog.ctobsnssdk.com
