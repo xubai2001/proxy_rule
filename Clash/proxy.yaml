@@ -1,6 +1,7 @@
 payload:
   # 需要代理的域名
   # DOMAIN-SUFFIX
+  - IP-CIDR,192.168.31.3/32
   - DOMAIN-SUFFIX,googleapis.cn
   - DOMAIN-SUFFIX,google.cn
   - DOMAIN-SUFFIX,services.googleapis.cn
