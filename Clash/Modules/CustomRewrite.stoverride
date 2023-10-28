@@ -4,8 +4,8 @@ desc: 自用重写规则
 http:
   force-http-engine:
     - '*:80'
-    - '*.google.cn'
-    - '*.g.cn'
+    - 'www.google.cn'
+    - 'www.g.cn'
   mitm:
     - www.g.cn
     - www.google.cn
