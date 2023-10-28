@@ -6,10 +6,6 @@
 [URL Rewrite]
 ^https?://(www.)?google.cn https://www.google.com 302
 ^https?://(www.)?g.cn https://www.google.com 302
-^https?:\/\/adashbc.ut.taobao.com/.* - reject
-^http\:\/\/.*.pglstatp-toutiao.com\/tos-cn-.*\/.*\.jpg.* reject
-^https\:\/\/v\d-be-.*\.pglstatp-toutiao\.com\/.*\/.*\/video\/tos\/cn\/tos-cn-.*\/.*\/toutiao\.mp4.* reject
-^http\:\/\/.*\.pglstatp-toutiao\.com\/web\.business\.image\/.*\.image.* reject
 
 [MITM]
-hostname = www.g.cn, www.google.cn, adashbc.ut.taobao.com, *.pangolin-sdk-toutiao.com:443, adashbc.ut.taobao.com:443, *.pglstatp-toutiao.com:443
+hostname = www.g.cn, www.google.cn
