@@ -37,6 +37,8 @@ payload:
   - DOMAIN-SUFFIX,adtidy.org
   - DOMAIN-SUFFIX,amazontrust.com
   - DOMAIN-SUFFIX,ip-api.com
+  - DOMAIN-SUFFIX,belle-vie.xyz
+  - DOMAIN-SUFFIX,hechuangxinxi.xyz
 
   # DOMAIN
   - DOMAIN,emby.prprcloud.com
