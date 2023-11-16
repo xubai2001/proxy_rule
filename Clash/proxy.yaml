@@ -39,6 +39,8 @@ payload:
   - DOMAIN-SUFFIX,ip-api.com
   - DOMAIN-SUFFIX,mxomo.com
   - DOMAIN-SUFFIX,vol.moe
+  - DOMAIN-SUFFIX,belle-vie.xyz
+  - DOMAIN-SUFFIX,hechuangxinxi.xyz
 
   # DOMAIN
   - DOMAIN,emby.prprcloud.com
