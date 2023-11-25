@@ -48,6 +48,7 @@ payload:
   - DOMAIN,st.stripcdn.com
   - DOMAIN,r3.o.lencr.org
   - DOMAIN,testflight.apple.com
+  - DOMAIN,luoxu.archlinuxcn.org
 
   # DOMAIN-KEYWORD
   # - DOMAIN-KEYWORD,speedtest
