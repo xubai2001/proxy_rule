@@ -41,6 +41,7 @@ payload:
   - DOMAIN-SUFFIX,vol.moe
   - DOMAIN-SUFFIX,belle-vie.xyz
   - DOMAIN-SUFFIX,hechuangxinxi.xyz
+  - DOMAIN-SUFFIX,codegeex.cn
 
   # DOMAIN
   - DOMAIN,emby.prprcloud.com
