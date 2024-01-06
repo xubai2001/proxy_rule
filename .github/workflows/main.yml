@@ -24,7 +24,7 @@ jobs:
 
     - name: update list
       run: |
-        python code/yaml2list.py
+        python code/convert.py
 
     - name: commit
       run: |
