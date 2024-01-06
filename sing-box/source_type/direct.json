@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "hei521.cn",
+        "worldboxmod.com",
+        "razord.top",
+        "xubai.tk",
+        "flypy.com",
+        "nicecloud.me",
+        "pan666.net",
+        "localhost",
+        "hostbuf.com",
+        "eryi.love",
+        "newxiaozhan.com",
+        "yukonga.top",
+        "steampy.com",
+        "owenyoung.com",
+        "msftconnecttest.com",
+        "pysmei.com",
+        "raydumall.com",
+        "cbi360.net",
+        "api.openai-sb.com",
+        "tr.xbair.top",
+        "qubook.cc",
+        "xbqg10.net",
+        "xbqg9.net",
+        "xbiquzw.com",
+        "lingdxsw.com",
+        "56zw.com",
+        "biqukun.com",
+        "booksos.net",
+        "platform.hicloud.com",
+        "ecukwai.com",
+        "dandanzan10.top",
+        "baobuzz.com",
+        "lz-cdn1.com",
+        "movie09.com",
+        "cdtlas.com",
+        "taopianplay1.com",
+        "yanetflix.com",
+        "liangzipic.com",
+        "dubi.tk"
+      ],
+      "domain": [
+        "cooing.cc",
+        "api.oxycontin.cc",
+        "sessions.bugsnag.com",
+        "connectivitycheck.platform.hicloud.com",
+        "gh.xubai.tk"
+      ],
+      "domain_keyword": [
+        "pan666",
+        "fishc",
+        "xiaozhan",
+        "yacd",
+        "zhenbuka",
+        "douyu",
+        "fastgit",
+        "biquge",
+        "dandanzan",
+        "jubaibai",
+        "libvio"
+      ]
+    }
+  ]
+}

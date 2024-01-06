@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "newpppp.com",
+        "nivod.tv",
+        "nivodz.com",
+        "nivod4.tv",
+        "biggggg.com",
+        "mudvod.tv",
+        "video-cdn.narwhrl.site",
+        "startrekcn.cn",
+        "video-cdn.stcn.link",
+        "misakaf.org",
+        "bili.rip",
+        "vercode.asia",
+        "imetyou.top",
+        "akamai-content-network.com",
+        "ysflux.com",
+        "wjqsdwm.xyz",
+        "kuaisuzu.net"
+      ],
+      "domain": [
+        "nivod.tv",
+        "nivod4.tv"
+      ],
+      "domain_keyword": [
+        "nivod",
+        "biggg",
+        "missav"
+      ]
+    }
+  ]
+}

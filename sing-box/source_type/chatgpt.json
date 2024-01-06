@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "openai.com",
+        "challenges.cloudflare.com",
+        "sentry.io"
+      ],
+      "domain": [
+        "ai.com",
+        "openaiapi-site.azureedge.net"
+      ],
+      "domain_keyword": []
+    }
+  ]
+}

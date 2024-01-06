@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "googleapis.cn",
+        "google.cn",
+        "services.googleapis.cn",
+        "okz2.com",
+        "okztwo.com",
+        "okzz.net",
+        "archlinux.org",
+        "glados.work",
+        "aur.tuna.tsinghua.edu.cn",
+        "yxxt.crwj.cn",
+        "gstatic.com",
+        "v2-163cdn.com",
+        "fuqing.cz",
+        "icekylin.online",
+        "schub.top",
+        "teamviewer.com",
+        "ffqla.net",
+        "getsurfboard.com",
+        "bing.com",
+        "workers.dev",
+        "ahhhhfs.com",
+        "clash-meta.wiki",
+        "metacubex.one",
+        "msftconnecttest.com",
+        "msftncsi.com",
+        "mozilla.org",
+        "api-hk.openai-sb.com",
+        "api-cf.openai-sb.com",
+        "digicert.com",
+        "firefox.com",
+        "mozilla.com",
+        "1password.com",
+        "adtidy.org",
+        "amazontrust.com",
+        "ip-api.com",
+        "mxomo.com",
+        "vol.moe",
+        "belle-vie.xyz",
+        "hechuangxinxi.xyz",
+        "codegeex.cn"
+      ],
+      "domain": [
+        "emby.prprcloud.com",
+        "api.chatai.beauty",
+        "st.stripcdn.com",
+        "r3.o.lencr.org",
+        "testflight.apple.com",
+        "luoxu.archlinuxcn.org"
+      ],
+      "domain_keyword": [
+        "subhd",
+        "connectivitycheck"
+      ]
+    }
+  ]
+}

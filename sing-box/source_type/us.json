@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "bard.google.com",
+        "us-east-1.amazonaws.com",
+        "codeium.com"
+      ],
+      "domain": [
+        "lens.l.google.com",
+        "notebooklm.google.com",
+        "notebooklm.google",
+        "generativelanguage.googleapis.com"
+      ],
+      "domain_keyword": [
+        "jmapi"
+      ]
+    }
+  ]
+}

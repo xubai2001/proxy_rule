@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "adashbc.ut.taobao.com",
+        "pangolin-sdk-toutiao.com",
+        "pangolin-sdk-toutiao-b.com",
+        "pglstatp-toutiao.com",
+        "toblog.ctobsnssdk.com"
+      ],
+      "domain": [],
+      "domain_keyword": []
+    }
+  ]
+}
