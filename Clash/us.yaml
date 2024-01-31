@@ -13,3 +13,5 @@ payload:
   # Codeium
   - DOMAIN-SUFFIX,codeium.com
   - DOMAIN-SUFFIX,acemc.co
+
+  - DOMAIN-SUFFIX,swiftkey.com
