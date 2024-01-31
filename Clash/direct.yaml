@@ -7,7 +7,6 @@ payload:
   - DOMAIN,connectivitycheck.platform.hicloud.com
   - DOMAIN,gh.xubai.tk
   - DOMAIN,api.dandanplay.net
-  - 
 
   # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,hei521.cn
