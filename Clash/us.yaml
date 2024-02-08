@@ -9,6 +9,7 @@ payload:
   - DOMAIN,notebooklm.google.com
   - DOMAIN,notebooklm.google
   - DOMAIN,generativelanguage.googleapis.com
+  - DOMAIN-SUFFIX,gemini.google.com
 
   # Codeium
   - DOMAIN-SUFFIX,codeium.com
