@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,us-east-1.amazonaws.com
 DOMAIN,notebooklm.google.com
 DOMAIN,notebooklm.google
 DOMAIN,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,codeium.com
 DOMAIN-SUFFIX,acemc.co
 DOMAIN-SUFFIX,swiftkey.com
