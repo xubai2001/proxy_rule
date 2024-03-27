@@ -23,4 +23,4 @@ payload:
   - DOMAIN-SUFFIX,ysflux.com
   - DOMAIN-SUFFIX,wjqsdwm.xyz
   - DOMAIN-SUFFIX,kuaisuzu.net
-  - IP-CIDR,92.222.208.70/32,no-resolve
+  - DOMAIN-SUFFIX,aca.best
