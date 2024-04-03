@@ -78,3 +78,6 @@ payload:
   - DOMAIN, www2.bing.com
   - DOMAIN, www.bingapis.com
   - DOMAIN-SUFFIX, edge.microsoft.com
+
+  # zuki
+  - DOMAIN-SUFFIX,xyzbot.net
