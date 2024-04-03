@@ -32,7 +32,8 @@
         "generativeai.google",
         "proactivebackend-pa.googleapis.com",
         "apis.google.com",
-        " edge.microsoft.com"
+        " edge.microsoft.com",
+        "xyzbot.net"
       ],
       "domain": [
         "api.statsig.com",
