@@ -1,0 +1,21 @@
+#!name=斗鱼去广告
+#!desc=斗鱼去广告 提取自https://whatshub.top/module/adultraplus.sgmodule 个人自用
+#!homepage=https://whatshub.top
+#!author=Mixed
+#!category=去广告
+
+[URL Rewrite]
+^https?:\/\/staticlive\.douyucdn\.cn\/upload\/signs\/ _ reject
+^https?:\/\/staticlive\.douyucdn\.cn\/.+\/getStartSend _ reject
+^https?:\/\/douyucdn\.cn\/.+\/appapi\/getinfo _ reject
+^https?:\/\/capi\.douyucdn\.cn\/lapi\/sign\/app(api)?\/getinfo\?client_sys=ios _ reject
+^https?://rtbapi\.douyucdn\.cn/japi/sign/app/getinfo _ reject
+
+[MITM]
+hostname = %APPEND% rtbapi.douyucdn.cn
+[Map Local]
+^https?:\/\/staticlive\.douyucdn\.cn\/.+?\/getStartSend data="https://raw.githubusercontent.com/deezertidal/Surge_Module/master/files/reject-img.gif"
+^https?:\/\/rtbapi\.douyucdn\.cn\/japi\/sign\/app\/getinfo data="https://raw.githubusercontent.com/deezertidal/Surge_Module/master/files/reject-200.txt"
+^https?:\/\/douyucdn\.cn\/.+?\/appapi\/getinfo data="https://raw.githubusercontent.com/deezertidal/Surge_Module/master/files/reject-img.gif"
+^https?:\/\/capi\.douyucdn\.cn\/api\/v1\/getStartSend?client_sys=ios data="https://raw.githubusercontent.com/deezertidal/Surge_Module/master/files/reject-img.gif"
+^https?:\/\/capi\.douyucdn\.cn\/api\/ios_app\/check_update data="https://raw.githubusercontent.com/deezertidal/Surge_Module/master/files/reject-img.gif"
