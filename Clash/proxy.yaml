@@ -41,6 +41,10 @@ payload:
   - DOMAIN-SUFFIX,belle-vie.xyz
   - DOMAIN-SUFFIX,hechuangxinxi.xyz
   - DOMAIN-SUFFIX,codegeex.cn
+  - DOMAIN-SUFFIX,aahhss.com
+  - DOMAIN-SUFFIX,guilinjinfan.com
+  - DOMAIN-SUFFIX,liquidlink.cn
+
 
   # DOMAIN
   - DOMAIN,emby.prprcloud.com
