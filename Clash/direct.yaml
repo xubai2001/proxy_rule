@@ -69,3 +69,16 @@ payload:
   - DOMAIN-SUFFIX,yanetflix.com
   - DOMAIN-SUFFIX,liangzipic.com
   - DOMAIN-SUFFIX,dubi.tk
+
+  # 小说网站
+  - DOMAIN-SUFFIX,yunxs.cc
+  - DOMAIN-SUFFIX,gdbzkz.info
+  - DOMAIN-SUFFIX,liudatxt.la
+  - DOMAIN-KEYWORD,77shuku
+  - DOMAIN-SUFFIX,ting13.cc
+  - DOMAIN-SUFFIX,xsmp3.com
+  - DOMAIN-SUFFIX,211zw.com
+  - DOMAIN-SUFFIX,i25zw.com
+  - DOMAIN-SUFFIX,630shu.org
+  - DOMAIN-SUFFIX,52xt.net
+  
