@@ -8,13 +8,16 @@
         "gemini.google.com",
         "codeium.com",
         "acemc.co",
-        "swiftkey.com"
+        "swiftkey.com",
+        "rourouwu.in"
       ],
       "domain": [
         "lens.l.google.com",
         "notebooklm.google.com",
         "notebooklm.google",
-        "generativelanguage.googleapis.com"
+        "generativelanguage.googleapis.com",
+        "cdn.usefathom.com",
+        "alist.xubai.site"
       ],
       "domain_keyword": [
         "jmapi"

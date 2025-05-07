@@ -33,7 +33,8 @@
         "proactivebackend-pa.googleapis.com",
         "apis.google.com",
         " edge.microsoft.com",
-        "xyzbot.net"
+        "xyzbot.net",
+        "openrouter.ai"
       ],
       "domain": [
         "api.statsig.com",
